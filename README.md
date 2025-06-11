@@ -10,25 +10,30 @@ I'm currently studying DAM with a focus on game development and creative technol
 ## 🚀 Featured Projects
 
 ### 🧑‍💻 Portfolio Site (React, Firebase)  
-My personal portfolio built with React. Includes a contact form using Firebase Realtime Database.  
+My personal portfolio built with React. Includes a contact form using Firebase Realtime Database.
+
 [![Repository](https://img.shields.io/badge/Repo-Portfolio-blue)](https://github.com/Itsdeusi06/MyWeb)  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://portfolio-2e91d.web.app/)  
 
 ### 📘 ValoWiki (HTML, CSS, JS)  
-Informative website about the game Valorant (home, agents, skins, esports). Built in a team and hosted via GitHub Pages.  
+Informative website about the game Valorant (home, agents, skins, esports). Built in a team and hosted via GitHub Pages.
+
 [![Repository](https://img.shields.io/badge/Repo-ValoWiki-blue)](https://github.com/Itsdeusi06/ValoWiki)  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://itsdeusi06.github.io/ValoWiki/)
 
 ### 🍉 Fruit Ninja Clone (Unity, C#)  
-Fruit-slicing game with bomb obstacles. Practiced backend integration and data persistence using XML, JSON, MySQL, and Firebase.  
+Fruit-slicing game with bomb obstacles. Practiced backend integration and data persistence using XML, JSON, MySQL, and Firebase.
+
 [![Repository](https://img.shields.io/badge/Repo-FruitNinja-blue)](https://github.com/Itsdeusi06/Unity/blob/main/fruitNinja.unitypackage)
 
 ### 🐍 Hangman (Python)  
-My first Python project. A simple word guessing game. Learned about functions, loops, and conditionals.  
+My first Python project. A simple word guessing game. Learned about functions, loops, and conditionals.
+
 [![Repository](https://img.shields.io/badge/Repo-Hangman-blue)](https://github.com/Itsdeusi06/GitHub-Codedex/tree/main/PROJECT)
 
 ### ⚙️ 2D Game Engine (C++)  
-Lightweight 2D engine with game loop, input handling, rendering, collision, and entity management.  
+Lightweight 2D engine with game loop, input handling, rendering, collision, and entity management.
+
 [![Repository](https://img.shields.io/badge/Repo-2DGameEngine-blue)](https://github.com/Itsdeusi06/CPP/tree/main/Motor)
 
 ### 📄 GDD - Game Design Document  
@@ -51,4 +56,5 @@ I'm always open to new collaborations and opportunities to grow as a developer.
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsdeusi06)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
