@@ -3,9 +3,7 @@
 🎮 Game Developer / Programmer  
 I'm currently studying DAM with a focus on game development and creative technology. Passionate about turning ideas into interactive experiences. Always looking for challenges to keep learning and improving my skills.
 
-# <a href="https://portfolio-2e91d.web.app/">
-  <img src="https://img.shields.io/badge/Visit%20%20My%20Porfolio%20-8A2BE2" alt="Portfolio" width="200" />
-</a>
+#  [Visit My Portfolio](https://img.shields.io/badge/Live-Demo-green)](https://portfolio-2e91d.web.app/)
 
 ## 🚀 Featured Projects
 
